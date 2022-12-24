@@ -7,6 +7,21 @@
 *.o
 *.obj
 
+# Visual Studio User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Visual Studio cache/options directory
+.vs/
+
+# Binaries:
+[Bb]in
+[Ii]ntermediate
+
 # Precompiled Headers
 *.gch
 *.pch
