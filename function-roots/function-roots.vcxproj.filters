@@ -36,9 +36,6 @@
       <Filter>Methods</Filter>
     </ClInclude>
     <ClInclude Include="src\test\TestSecant.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="src\test\TestSecant.h">
       <Filter>Tests</Filter>
     </ClInclude>
     <ClInclude Include="src\test\TestNewton.h">
@@ -55,6 +52,9 @@
     </ClInclude>
     <ClInclude Include="src\Common.h">
       <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\test\TestSecant.h">
+      <Filter>Methods</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

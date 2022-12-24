@@ -3,6 +3,7 @@
 #include "TestCommon.h"
 #include "root_finding/Newton.h"
 
+#ifdef TEST_MODE
 Results newton_range_closest()
 {
     // Closest: the root is bound by outer limits of distance 0.001.
@@ -42,3 +43,4 @@ Results newton_range_farthest()
     Results results = newton(ROOT + 0.45, function, derivative, PRECISION, MAX_ITERATIONS);
     return results;
 }
+#endif

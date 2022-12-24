@@ -3,6 +3,7 @@
 #include "TestCommon.h"
 #include "root_finding/Secant.h"
 
+#ifdef TEST_MODE
 Results false_position_range_closest()
 {
     // Closest: the root is bound by outer limits of distance 0.001.
@@ -42,3 +43,4 @@ Results false_position_range_farthest()
     Results results = secant(ROOT - 0.45, ROOT + 0.45, function, PRECISION, MAX_ITERATIONS);
     return results;
 }
+#endif
