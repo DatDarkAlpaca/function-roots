@@ -50,6 +50,5 @@ gcc Main.c -I. -o function-roots.exe && function-roots.exe
 
 Você pode adicionar `-DTEST_MODE` antes de `-o` a fim de inicializar o programa com os testes pré-definidos.
 
-# Licença:
-O projeto conta com uma licença The Unlicensed. Para mais informações, clique [aqui](https://github.com/DatDarkAlpaca/function-roots/LICENSE).
-
+## Licença
+Este projeto está licenciado sob a [Licença Unlicense](https://unlicense.org) - consulte [LICENSE](LICENSE) para detalhes.
