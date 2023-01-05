@@ -12,7 +12,7 @@ $x^3-\sin(x)$
 A equipe é composta pelos colaboradores deste repositório, e tem como orientadora a Profª. Neide Alves.
 A conta dos participantes foram dispostas a seguir:
  * [Paulo Castro](https://github.com/DatDarkAlpaca)
- * [Felipe ....]()
+ * [Felipe Muniz](https://github.com/FMABr)
 
 # Instalação
 ## Pré-requisitos
